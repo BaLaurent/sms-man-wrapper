@@ -1,7 +1,7 @@
 # sms-man-wrapper
 Python wrapper for sms-man.com
 
-#Installation
+# Installation
 For the moment sms-man-wrapper isn't available to pypi (i'm working on it)
 so to be able to use it download smsman.py in the folder where you need it then import it
 
