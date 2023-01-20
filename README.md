@@ -2,12 +2,9 @@
 Python wrapper for sms-man.com
 
 # Installation
-For the moment sms-man-wrapper isn't available to pypi (i'm working on it)
-first install the dependency using 
 ```
-pip install requests
+pip install sms-man-wrapper
 ```
-then download smsman.py in the folder where you need it then import it
 
 # Usage 
 To use this module register an account on [sms-man.com](https://sms-man.com/?ref=7J4fAfTCYsSA)
@@ -15,7 +12,7 @@ here you can grab your API key
 then you can initiate SmsMan class like this :
 ```python
 #import the module
-from smsman import SmsMan
+from sms-man-wrapper import SmsMan
 
 #initialize the sms object using your api key in the constructor
 sms = SmsMan("YOUR API KEY"}
