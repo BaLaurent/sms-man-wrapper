@@ -22,7 +22,7 @@ countryInfos = sms.getCountryInfos("France") # return the infos required for the
 #etc...
 ```
 
-#Functions 
+# Functions 
 Here's a list of all the functions : 
     - getBalance(): returns the current balance of your account
     - requestPhone(service, country): requests a phone number for a specific service and country
