@@ -24,6 +24,7 @@ countryInfos = sms.getCountryInfos("France") # return the infos required for the
 
 # Functions 
 Here's a list of all the functions : 
+```
     - getBalance(): returns the current balance of your account
     - requestPhone(service, country): requests a phone number for a specific service and country
     - getSms(request_id): retrieves the SMS messages for a specific request
@@ -32,3 +33,4 @@ Here's a list of all the functions :
     - changeRequestStatus(request_id, status): changes the status of a request
     - getCountryInfos(countryName): returns the country information for a specific country
     - getServiceInfos(serviceName): returns the service information for a specific service
+```
